@@ -26,7 +26,7 @@
 
 ## Cindy Suarez
 
-![cindy](https://user-images.githubusercontent.com/86891538/193106405-0c5e8b92-5b80-4c2c-9cb2-a28ee2275611.png)
+![cindy](https://user-images.githubusercontent.com/86891538/193106405-0c5e8b92-5b80-4c2c-9cb2-a28ee2275611.png alt="300" width="300")
 
 [<img src="./img/ln.png" alt="30" width="30"/> Cindy Suarez](https://www.linkedin.com/in/cindyailensuarez/)
 
