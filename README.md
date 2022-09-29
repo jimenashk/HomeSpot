@@ -17,6 +17,9 @@
 
 ### [***Sitio del proyecto***](http://homespot-frontend-app.s3-website.ca-central-1.amazonaws.com/)
 
+![image](https://user-images.githubusercontent.com/86891538/193132724-4f637eff-de1f-4350-af6c-7bd78a313f44.png)
+
+
 ## Equipo de trabajo
 
 - ***Scrum Master :*** Mailen Slavutzky
