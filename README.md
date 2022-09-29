@@ -10,7 +10,7 @@
 
 ## Proyecto
     El Proyecto Homespot es un sitio web que permite buscar y reservar temporalmente alojamientos en casas, departamentos,
-    cabañas y casas de playa entre otros en distintos lugares turísticos del mundo.
+    cabañas y casas de playa en distintos lugares turísticos del mundo.
 
  El sitio puede ser utilizado por usuarios para buscar alojamientos y realizar reservas y también por administradores, que además pueden agregar productos. Nuestro objetivo es desarrollar un sitio acorde a las  funcionalidades requeridas por el cliente. Hicimos hincapié en lograr que sea responsive, intuitivo y fácilmente navegable, para que los usuarios disfruten la experiencia y vuelvan a visitarlo.
 
