@@ -72,6 +72,7 @@ Infraestructura | 🔵 ⚪ ⚪ |
 Testing / QA | 🔵 🔵 ⚪ |
 Bases de datos | 🔵 🔵 🔵 |
 
+
 ## Juan Camilo Doncel Medina
 #### Conocimiento al iniciar la carrera
 Juan estudiante de Ingeniería Civil, empezó en el mundo de la programación por hobby en pandemia, después se fue interesando más por el tema y tomo la oportunidad que se le presentó en CTD
@@ -89,6 +90,7 @@ Back End | 🔵 ⚪ ⚪ |
 Infraestructura | 🔵 ⚪ ⚪ |
 Testing / QA | 🔵 🔵 ⚪ |
 Bases de datos | 🔵 🔵 ⚪ |
+
 
 ## Lorena Perez Escobar
 #### Conocimiento al iniciar la carrera
@@ -109,6 +111,7 @@ Back End | 🔵 🔵 🔵 |
 Infraestructura | 🔵 🔵 ⚪ |
 Testing / QA | 🔵 ⚪ ⚪ |
 Bases de datos | 🔵 🔵 🔵 |
+
 
 ## Maria Lucila Arjona Campos
 #### Conocimiento al iniciar la carrera
@@ -135,6 +138,7 @@ Infraestructura | 🔵 🔵 🔵 |
 Testing / QA | 🔵 ⚪ ⚪ |
 Bases de datos | 🔵 ⚪ ⚪ |
 
+
 ## Monica Bernal
 #### Conocimiento al iniciar la carrera
 
@@ -155,6 +159,7 @@ Back End | 🔵 ⚪ ⚪ |
 Infraestructura | 🔵 ⚪ ⚪ |
 Testing / QA | 🔵 🔵 🔵 |
 Bases de datos | 🔵 🔵 ⚪ |
+
 
 ## Metodología de trabajo
 
@@ -289,15 +294,15 @@ Para correr el proyecto, instale localmente las siguientes librerias
 
 ### Infraestructura
 
-Primer diagrama planteado por el equipo
+Primer diagrama planteado por el equipo:
 
 ![infra-version1](https://user-images.githubusercontent.com/86891538/193109770-141ee54d-d892-4191-9f72-00c4d6ee77fd.png)
-Diagrama definitivo
+
+Diagrama definitivo:
 
 ![infra-version2](https://user-images.githubusercontent.com/86891538/193109798-c5b9e5fb-f843-45e0-bcf6-dfd3d577f4a6.png)
 
 Diagrama definitivo donde la aplicacion esta deployada en [***Sitio del proyecto***](http://homespot-frontend-app.s3-website.ca-central-1.amazonaws.com/) 
-
 Trabajamos con el DNS route 53 el servidor de nombres de dominio de Amazon. El frontend está almacenado en un Bucket S3 y las imágenes están guardadas en otro Bucket para que sea de más rápido acceso.La API del backend está desplegada en EC2, que es un conjunto de
 servicios de AWS que permite cargar versiones de nuestra aplicación. Por último implementamos una RDS la cual está conectada a nuestra API para poder almacenar los datos de nuestros usuarios.
 
