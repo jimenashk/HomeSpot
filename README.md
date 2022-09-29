@@ -54,7 +54,7 @@ Bases de datos | 🔵 ⚪ ⚪ |
 
 Jimena es Diseñadora grafica & Publicitaria, empezo la carrera Certified Tech Developer sin conocimientos previos,
 siendo esto un desafío muy grande para ella. Viniendo del mundo del diseño, ve como la creatividad y la innovación
-se pueden aplicar de diferentes formas y eso me motiva a seguir explorando el mundo IT.
+se pueden aplicar de diferentes formas y eso la motiva a seguir explorando el mundo IT.
 
 #### Rol:
     Back End / Bases de Datos / Testing
