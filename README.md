@@ -1,4 +1,4 @@
-# <img src=![logo-homespot](https://user-images.githubusercontent.com/86891538/193105887-96a9a6db-7ff3-4cc8-be39-837a8829053c.jpeg) alt="50" width="50"/> HomeSpot
+# ![logo-homespot](https://user-images.githubusercontent.com/86891538/193105988-b8601b1f-46ba-429d-9561-6d88513d590a.jpeg) HomeSpot
 
 ## Contenidos
   - Proyecto
