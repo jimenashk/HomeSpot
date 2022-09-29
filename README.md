@@ -1,5 +1,8 @@
 # ![logo-homespot](https://user-images.githubusercontent.com/86891538/193105988-b8601b1f-46ba-429d-9561-6d88513d590a.jpeg)
 
+![image](https://user-images.githubusercontent.com/86891538/193132114-0ae47788-6772-453e-a99d-d1218ee33d4b.png)
+
+
 ## Contenidos
   - Proyecto
   - Equipo de trabajo
