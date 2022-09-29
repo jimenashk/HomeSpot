@@ -1,3 +1,5 @@
+# <img src=![logo-homespot](https://user-images.githubusercontent.com/86891538/193105887-96a9a6db-7ff3-4cc8-be39-837a8829053c.jpeg) alt="50" width="50"/> HomeSpot
+
 ## Contenidos
   - Proyecto
   - Equipo de trabajo
@@ -24,6 +26,8 @@
 
 ## Cindy Suarez
 
+<img src="./img/fotos-grupo/cindy.png" alt="300" width="300"/>
+
 [<img src="./img/ln.png" alt="30" width="30"/> Cindy Suarez](https://www.linkedin.com/in/cindyailensuarez/)
 
 #### Conocimiento al iniciar la carrera
@@ -47,6 +51,10 @@ Bases de datos | 🔵 ⚪ ⚪ |
 
 
 ## Jimena Horbacovsky
+
+<img src="./img/fotos-grupo/jime.png" alt="300" width="300"/>
+
+[<img src="./img/ln.png" alt="30" width="30"/> Jimena Horbacovsky](https://www.linkedin.com/in/jimenashk)
 
 #### Conocimiento al iniciar la carrera
 
@@ -76,6 +84,10 @@ Bases de datos | 🔵 🔵 🔵 |
 
 ## Juan Camilo Doncel Medina
 
+<img src="./img/fotos-grupo/juan.png" alt="300" width="300"/>
+
+[<img src="./img/ln.png" alt="30" width="30"/> Juan Camilo Doncel Medina](https://www.linkedin.com/in/juancamilodoncel)
+
 #### Conocimiento al iniciar la carrera
 Juan estudiante de Ingeniería Civil, empezó en el mundo de la programación por hobby en pandemia, después se fue interesando más por el tema y tomo la oportunidad que se le presentó en CTD
 
@@ -94,6 +106,10 @@ Testing / QA | 🔵 🔵 ⚪ |
 Bases de datos | 🔵 🔵 ⚪ |
 
 ## Lorena Perez Escobar
+
+<img src="./img/fotos-grupo/lorena.png" alt="300" width="300"/>
+
+[<img src="./img/ln.png" alt="40" width="40"/> Lorena Perez Escobar](https://www.linkedin.com/in/lorenaperezescobar)
 
 #### Conocimiento al iniciar la carrera
 
@@ -115,6 +131,10 @@ Testing / QA | 🔵 ⚪ ⚪ |
 Bases de datos | 🔵 🔵 🔵 |
 
 ## Maria Lucila Arjona Campos
+
+<img src="./img/fotos-grupo/lucila.png" alt="300" width="300"/>
+
+[<img src="./img/ln.png" alt="40" width="40"/> Lucila Arjona](https://www.linkedin.com/in/lucilaarjona)
 
 #### Conocimiento al iniciar la carrera
 
@@ -141,6 +161,10 @@ Testing / QA | 🔵 ⚪ ⚪ |
 Bases de datos | 🔵 ⚪ ⚪ |
 
 ## Monica Bernal
+
+<img src="./img/fotos-grupo/moni.png" alt="300" width="300"/>
+
+[<img src="./img/ln.png" alt="40" width="40"/> Monica Bernal](https://www.linkedin.com/in/monica-alexandra-bernal-reyes-608789b8/)
 
 #### Conocimiento al iniciar la carrera
 
