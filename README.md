@@ -25,11 +25,6 @@
 - ***Tech Lead :*** Daniel Villajuan
 
 ## Cindy Suarez
-
-![cindy](https://user-images.githubusercontent.com/86891538/193106405-0c5e8b92-5b80-4c2c-9cb2-a28ee2275611.png alt="300" width="300")
-
-[<img src="./img/ln.png" alt="30" width="30"/> Cindy Suarez](https://www.linkedin.com/in/cindyailensuarez/)
-
 #### Conocimiento al iniciar la carrera
 
 Cindy es estudiante de la Licenciatura en Administración y comenzó el bootcamp CTD sin concimientos previos en programación. La posibilidad de hacer sinergía con su carrera y el amplio margen para ser creativa, fue la que la llevo a estudiar en Digital House.
@@ -51,11 +46,6 @@ Bases de datos | 🔵 ⚪ ⚪ |
 
 
 ## Jimena Horbacovsky
-
-<img src="./img/fotos-grupo/jime.png" alt="300" width="300"/>
-
-[<img src="./img/ln.png" alt="30" width="30"/> Jimena Horbacovsky](https://www.linkedin.com/in/jimenashk)
-
 #### Conocimiento al iniciar la carrera
 
 Jimena es Diseñadora grafica & Publicitaria, empezo la carrera Certified Tech Developer sin conocimientos previos,
@@ -83,11 +73,6 @@ Testing / QA | 🔵 🔵 ⚪ |
 Bases de datos | 🔵 🔵 🔵 |
 
 ## Juan Camilo Doncel Medina
-
-<img src="./img/fotos-grupo/juan.png" alt="300" width="300"/>
-
-[<img src="./img/ln.png" alt="30" width="30"/> Juan Camilo Doncel Medina](https://www.linkedin.com/in/juancamilodoncel)
-
 #### Conocimiento al iniciar la carrera
 Juan estudiante de Ingeniería Civil, empezó en el mundo de la programación por hobby en pandemia, después se fue interesando más por el tema y tomo la oportunidad que se le presentó en CTD
 
@@ -106,11 +91,6 @@ Testing / QA | 🔵 🔵 ⚪ |
 Bases de datos | 🔵 🔵 ⚪ |
 
 ## Lorena Perez Escobar
-
-<img src="./img/fotos-grupo/lorena.png" alt="300" width="300"/>
-
-[<img src="./img/ln.png" alt="40" width="40"/> Lorena Perez Escobar](https://www.linkedin.com/in/lorenaperezescobar)
-
 #### Conocimiento al iniciar la carrera
 
 Lorena estudiante recién egresada del colegio, comenzó la carrera Certified Tech Developer sin conocimientos previos sobre programación. Tuvo la oportunidad de aprender algo nuevo y en un futuro conectarlo e implementarlo con su carrera de Ing. Biomédica lo que la impulso a tomar el desafío de aprender más sobre el mundo IT y las diferentes tecnologías.
@@ -131,11 +111,6 @@ Testing / QA | 🔵 ⚪ ⚪ |
 Bases de datos | 🔵 🔵 🔵 |
 
 ## Maria Lucila Arjona Campos
-
-<img src="./img/fotos-grupo/lucila.png" alt="300" width="300"/>
-
-[<img src="./img/ln.png" alt="40" width="40"/> Lucila Arjona](https://www.linkedin.com/in/lucilaarjona)
-
 #### Conocimiento al iniciar la carrera
 
 Lucila es estudiante de ingenieria en sistemas de información en la universidad tecnologica nacional de Mendoza,
@@ -161,11 +136,6 @@ Testing / QA | 🔵 ⚪ ⚪ |
 Bases de datos | 🔵 ⚪ ⚪ |
 
 ## Monica Bernal
-
-<img src="./img/fotos-grupo/moni.png" alt="300" width="300"/>
-
-[<img src="./img/ln.png" alt="40" width="40"/> Monica Bernal](https://www.linkedin.com/in/monica-alexandra-bernal-reyes-608789b8/)
-
 #### Conocimiento al iniciar la carrera
 
 Monica Estudio es Abogada y decidio cambiar la perspectiva de lo que realmente queria  para su vida optando por estudiar Certifed Tech Developer  de manera que todo lo que fue aprendiendo
@@ -315,20 +285,20 @@ Para correr el proyecto, instale localmente las siguientes librerias
 
 #### **Diagrama DER**
 
-<img src="./img/DER_PI_final.png" alt="900" width="900" >
+![DER_PI_final](https://user-images.githubusercontent.com/86891538/193109544-adbb1df2-de11-4f8d-b178-8c43e50f39df.png)
 
 ### Infraestructura
 
 Primer diagrama planteado por el equipo
 
-<img src="./img/infra/infra-version1.png" alt="600" width="600" />
-
+![infra-version1](https://user-images.githubusercontent.com/86891538/193109770-141ee54d-d892-4191-9f72-00c4d6ee77fd.png)
 Diagrama definitivo
 
-<img src="./img/infra/infra-version2.png" alt="600" width="600" />
+![infra-version2](https://user-images.githubusercontent.com/86891538/193109798-c5b9e5fb-f843-45e0-bcf6-dfd3d577f4a6.png)
 
-Diagrama definitivo donde la aplicacion esta deployada en [***Sitio del proyecto***](http://homespot-frontend-app.s3-website.ca-central-1.amazonaws.com/) Trabajamos con el
-DNS route 53 el servidor de nombres de dominio de Amazon. El frontend está almacenado en un Bucket S3 y las imágenes están guardadas en otro Bucket para que sea de más rápido acceso.La API del backend está desplegada en EC2, que es un conjunto de
+Diagrama definitivo donde la aplicacion esta deployada en [***Sitio del proyecto***](http://homespot-frontend-app.s3-website.ca-central-1.amazonaws.com/) 
+
+Trabajamos con el DNS route 53 el servidor de nombres de dominio de Amazon. El frontend está almacenado en un Bucket S3 y las imágenes están guardadas en otro Bucket para que sea de más rápido acceso.La API del backend está desplegada en EC2, que es un conjunto de
 servicios de AWS que permite cargar versiones de nuestra aplicación. Por último implementamos una RDS la cual está conectada a nuestra API para poder almacenar los datos de nuestros usuarios.
 
 ### Testing
@@ -337,12 +307,3 @@ servicios de AWS que permite cargar versiones de nuestra aplicación. Por últim
 
 [Informe final de Testing](https://docs.google.com/document/d/1zY1aMIWNTVwitoaO0mLGpJ3tLJfQPN8Y/edit?usp=sharing&ouid=106580342266172435824&rtpof=true&sd=true)
 
-### Para ver la wiki del proyecto
-
-`$cd wiki/homespot`
-
-`$mkdocs serve`
-
-*Open:*  `http://127.0.0.1:8000`
-
-For full documentation visit [mkdocs.org](https://mkdocs.org).
