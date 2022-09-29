@@ -1,4 +1,4 @@
-# ![logo-homespot](https://user-images.githubusercontent.com/86891538/193105988-b8601b1f-46ba-429d-9561-6d88513d590a.jpeg) HomeSpot
+# ![logo-homespot](https://user-images.githubusercontent.com/86891538/193105988-b8601b1f-46ba-429d-9561-6d88513d590a.jpeg)
 
 ## Contenidos
   - Proyecto
@@ -26,7 +26,7 @@
 
 ## Cindy Suarez
 
-<img src="./img/fotos-grupo/cindy.png" alt="300" width="300"/>
+![cindy](https://user-images.githubusercontent.com/86891538/193106405-0c5e8b92-5b80-4c2c-9cb2-a28ee2275611.png)
 
 [<img src="./img/ln.png" alt="30" width="30"/> Cindy Suarez](https://www.linkedin.com/in/cindyailensuarez/)
 
